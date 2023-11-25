@@ -1,0 +1,2 @@
+git remote add bitbucket https://himanshuthehr-admin@bitbucket.org/himanshuthehr/configclient.git
+git push -u -f bitbucket master
